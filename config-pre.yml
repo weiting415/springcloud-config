@@ -1,1 +1,2 @@
-master config-pre version one
+config:
+  info: "master branch, spring-cloud-config/config-pre.yml version=1"
